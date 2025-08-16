@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anonymous1515
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning C,C++,HTML,Python
+- 🌱 I’m currently learning C,C++,HTML,Python,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me newgengamer2023@gmail.com
 - 😄 Pronouns: NewGenGamer,Rambo_Bexley
